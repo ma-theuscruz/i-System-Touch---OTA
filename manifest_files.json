@@ -3,43 +3,43 @@
     {
       "name": "13TouchFile.bin",
       "id": 13,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/13TouchFile.bin",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/13TouchFile.bin",
       "size": 5970
     },
     {
       "name": "14ShowFile.bin",
       "id": 14,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/14ShowFile.bin",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/14ShowFile.bin",
       "size": 18144
     },
     {
       "name": "22_Config.bin",
       "id": 22,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/22_Config.bin",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/22_Config.bin",
       "size": 131076
     },
     {
       "name": "32.icl",
       "id": 32,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/32.icl",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/32.icl",
       "size": 2289460
     },
     {
       "name": "46.icl",
       "id": 46,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/46.icl",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/46.icl",
       "size": 216748
     },
     {
       "name": "47.icl",
       "id": 47,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/47.icl",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/47.icl",
       "size": 104896
     },
     {
       "name": "50.bin",
       "id": 50,
-      "url": "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display/50.bin",
+      "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/50.bin",
       "size": 886788
     }
   ]

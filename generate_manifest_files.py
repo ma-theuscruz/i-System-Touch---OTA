@@ -19,7 +19,7 @@ import json
 
 # ── Configuração ──────────────────────────────────────────────────────────
 DISPLAY_FOLDER  = r"C:\Users\Matheus\Projetos\i-System Touch\Manifest\display"
-GITHUB_BASE_URL = "https://github.com/ma-theuscruz/i-System-Touch---OTA/tree/main/display"
+GITHUB_BASE_URL = "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display"
 OUTPUT_FILE     = os.path.join(os.path.dirname(__file__), "manifest_files.json")
 # ─────────────────────────────────────────────────────────────────────────
 
