@@ -1,17 +1,22 @@
 {
+  "system_version": "0.1.0",
   "version": "0.1.0",
-  "bin": "https://github.com/ma-theuscruz/Vision-PRO-OTA/releases/download/v0.1.0/vision_pro.bin",
+  "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
   "md5": "",
   "size_bytes": 0,
   "released_at": "2026-06-24",
-  "notes": ["Versao inicial com OTA", "", ""],
+  "notes": [
+    "Versao inicial com OTA",
+    "",
+    ""
+  ],
   "display": {
     "version": "0.1.0",
     "files": [
       {
-        "id": 1,
         "name": "0_DWIN_SET.bin",
-        "url": "https://github.com/ma-theuscruz/Vision-PRO-OTA/releases/download/v0.1.0/0_DWIN_SET.bin",
+        "id": 1,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/0_DWIN_SET.bin",
         "size": 0
       }
     ]
