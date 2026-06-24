@@ -1,9 +1,9 @@
 {
-  "system_version": "0.1.1",
-  "version": "0.1.1",
+  "system_version": "0.1.2",
+  "version": "0.1.2",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "",
-  "size_bytes": 0,
+  "md5": "4b50567228224e9928ee430d4333bb5e",
+  "size_bytes": 1255712,
   "released_at": "2026-06-24",
   "notes": [
     "Versao inicial com OTA",
