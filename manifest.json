@@ -1,29 +1,29 @@
 {
-  "system_version": "0.1.2",
-  "version": "0.1.2",
+  "system_version": "0.1.3",
+  "version": "0.1.3",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "7F9A6DD5CC2C8A9EED683309816E71C0",
-  "size_bytes": 1255824,
-  "released_at": "2026-06-24",
+  "md5": "2934e761d7d3ad724abeae6cc39baf80",
+  "size_bytes": 1257936,
+  "released_at": "2026-07-07",
   "notes": [
     "Versao inicial com OTA",
-    "",
+    "Correções de bugs",
     ""
   ],
   "display": {
-    "version": "0.1.1",
-    "files": [
+    "version": "0.1.3",
+     "files": [
     {
       "name": "13TouchFile.bin",
       "id": 13,
       "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/13TouchFile.bin",
-      "size": 5970
+      "size": 4434
     },
     {
       "name": "14ShowFile.bin",
       "id": 14,
       "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/14ShowFile.bin",
-      "size": 18144
+      "size": 17664
     },
     {
       "name": "22_Config.bin",
