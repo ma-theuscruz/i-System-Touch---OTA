@@ -1,9 +1,9 @@
 {
-  "system_version": "0.1.7",
-  "version": "0.1.7",
+  "system_version": "0.1.8",
+  "version": "0.1.8",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "bfb1f217040628ebafe8d56ebfe32032",
-  "size_bytes": 1276464,
+  "md5": "b0fa83ad3feab905cf4bddceafb3a0f4",
+  "size_bytes": 1277520,
   "released_at": "2026-07-11",
   "notes": [
     "Corresções Sensores",
