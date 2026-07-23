@@ -1,17 +1,17 @@
 {
-  "system_version": "0.1.10",
-  "version": "0.1.10",
+  "system_version": "0.1.12",
+  "version": "0.1.12",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "5717252d7ad1314f07ff768febf60d10",
+  "md5": "334d459d44977971a2b2e44823a512d7",
   "size_bytes": 1288112,
-  "released_at": "2026-07-22",
+  "released_at": "2026-07-23",
   "notes": [
     "Correções sensores",
     "Ajuste tela config",
     ""
   ],
   "display": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "files": [
       {
         "name": "13TouchFile.bin",

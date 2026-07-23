@@ -1,6 +1,6 @@
 {
   "display_hashes": {
-    "13TouchFile.bin": "3ee31ed31d13b282aa2b491c163916db",
+    "13TouchFile.bin": "5b54dd1815aeb4295d246ceb09a9acf0",
     "14ShowFile.bin": "ef6c682963fc37b4b75fea3afdcc507b",
     "22_Config.bin": "430cef3d53ba12ad22f226574528f8b6",
     "32.icl": "0b15a7bac1219c6565f68b26258b878b",
@@ -8,9 +8,9 @@
     "47.icl": "5ae7fb843eefab5e55688feea83f5c80",
     "50.bin": "66324acf1cc88a6b9aae6152a4c5f920"
   },
-  "display_version": "0.1.5",
+  "display_version": "0.1.6",
   "last_release": {
-    "version": "0.1.10",
-    "date": "2026-07-22"
+    "version": "0.1.12",
+    "date": "2026-07-23"
   }
 }
