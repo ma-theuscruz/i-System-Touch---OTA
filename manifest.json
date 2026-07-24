@@ -1,29 +1,29 @@
 {
-  "system_version": "0.1.12",
-  "version": "0.1.12",
+  "system_version": "0.1.13",
+  "version": "0.1.13",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "334d459d44977971a2b2e44823a512d7",
-  "size_bytes": 1288112,
-  "released_at": "2026-07-23",
+  "md5": "a1d7fb6de4c60a9b691a16da4e2da5a3",
+  "size_bytes": 1289344,
+  "released_at": "2026-07-24",
   "notes": [
     "Correções sensores",
     "Ajuste tela config",
     ""
   ],
   "display": {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "files": [
       {
         "name": "13TouchFile.bin",
         "id": 13,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/13TouchFile.bin",
-        "size": 5362
+        "size": 5650
       },
       {
         "name": "14ShowFile.bin",
         "id": 14,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/14ShowFile.bin",
-        "size": 17984
+        "size": 18112
       },
       {
         "name": "22_Config.bin",
@@ -35,7 +35,7 @@
         "name": "32.icl",
         "id": 32,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/32.icl",
-        "size": 1861028
+        "size": 2015220
       },
       {
         "name": "46.icl",
@@ -47,13 +47,25 @@
         "name": "47.icl",
         "id": 47,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/47.icl",
-        "size": 104896
+        "size": 67156
+      },
+      {
+        "name": "48.icl",
+        "id": 48,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/48.icl",
+        "size": 422300
       },
       {
         "name": "50.bin",
         "id": 50,
         "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/50.bin",
         "size": 886788
+      },
+      {
+        "name": "60.icl",
+        "id": 60,
+        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/60.icl",
+        "size": 121376
       }
     ]
   }

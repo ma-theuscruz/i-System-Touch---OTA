@@ -1,16 +1,18 @@
 {
   "display_hashes": {
-    "13TouchFile.bin": "5b54dd1815aeb4295d246ceb09a9acf0",
-    "14ShowFile.bin": "ef6c682963fc37b4b75fea3afdcc507b",
-    "22_Config.bin": "430cef3d53ba12ad22f226574528f8b6",
-    "32.icl": "0b15a7bac1219c6565f68b26258b878b",
+    "13TouchFile.bin": "c54eebdb83cc10ce46c020bdf3af531a",
+    "14ShowFile.bin": "f5d111e732a1fb6660deaca3e9d0bdc5",
+    "22_Config.bin": "3cd343aca6f88ac273a17a0751c75f3d",
+    "32.icl": "ab73ac08848c27c91a04d3e276e786d5",
     "46.icl": "5d7c4b81bd2bcfbc2078789fedabdc92",
-    "47.icl": "5ae7fb843eefab5e55688feea83f5c80",
-    "50.bin": "66324acf1cc88a6b9aae6152a4c5f920"
+    "47.icl": "2b0e7380e5502a097c2738f637194349",
+    "48.icl": "f872ec726fcb51301fef51ba97380475",
+    "50.bin": "66324acf1cc88a6b9aae6152a4c5f920",
+    "60.icl": "992cb1190180c84abd393ce31bd44b8c"
   },
-  "display_version": "0.1.6",
+  "display_version": "0.1.7",
   "last_release": {
-    "version": "0.1.12",
-    "date": "2026-07-23"
+    "version": "0.1.13",
+    "date": "2026-07-24"
   }
 }
