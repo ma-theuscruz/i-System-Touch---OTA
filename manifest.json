@@ -1,10 +1,10 @@
 {
-  "system_version": "0.1.16",
-  "version": "0.1.16",
+  "system_version": "0.1.17",
+  "version": "0.1.17",
   "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "e082800feedaa94f6dac524ebf46ec58",
-  "size_bytes": 1290080,
-  "released_at": "2026-07-27",
+  "md5": "c6cb60655b9424971aabe19f73e75a01",
+  "size_bytes": 1290336,
+  "released_at": "2026-07-30",
   "notes": [
     "Correções sensores",
     "correcoes",
