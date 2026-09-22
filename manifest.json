@@ -1,71 +1,176 @@
 {
-  "system_version": "0.2.0",
-  "version": "0.2.0",
-  "bin": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/firmware.bin",
-  "md5": "f03759026526f07fbff4bc7dce2f59aa",
-  "size_bytes": 1262320,
-  "released_at": "2026-08-06",
+  "system_version": "0.3.0",
+  "version": "0.3.0",
+  "bin": "https://tebao.adall.com.br/ota/fw/i-system-touch-0.3.0.bin",
+  "md5": "190a003e7a8c118104ba8bb5c3ca0911",
+  "size_bytes": 1288144,
+  "released_at": "2026-09-21",
   "notes": [
-    "Correções sensores",
-    "correcoes",
-    ""
+    "Tela v3 (tema noite): layouts Basico, Tebao, Controle e Painel; manutencao com senha; correcoes de Wi-Fi, Sobre e perfis"
   ],
   "display": {
-    "version": "0.1.8",
+    "version": "0.1.10",
     "files": [
       {
         "name": "13TouchFile.bin",
         "id": 13,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/13TouchFile.bin",
-        "size": 5650
+        "url": "https://tebao.adall.com.br/ota/display/13TouchFile.bin",
+        "size": 12962,
+        "md5": "6abe41a75f910afbf602dcfa1c5f8f46"
       },
       {
         "name": "14ShowFile.bin",
         "id": 14,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/14ShowFile.bin",
-        "size": 18112
+        "url": "https://tebao.adall.com.br/ota/display/14ShowFile.bin",
+        "size": 36896,
+        "md5": "e7dd35e399a4f233c740141a09e62c0b"
       },
       {
         "name": "22_Config.bin",
         "id": 22,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/22_Config.bin",
-        "size": 131076
+        "url": "https://tebao.adall.com.br/ota/display/22_Config.bin",
+        "size": 131076,
+        "md5": "563b0b8b5ff0cf6cd103d8eccf8955c3"
       },
       {
         "name": "32.icl",
         "id": 32,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/32.icl",
-        "size": 2015220
+        "url": "https://tebao.adall.com.br/ota/display/32.icl",
+        "size": 1332652,
+        "md5": "86a7df1d3bde345885bf72e882848083"
+      },
+      {
+        "name": "40.bin",
+        "id": 40,
+        "url": "https://tebao.adall.com.br/ota/display/40.bin",
+        "size": 256298,
+        "md5": "07e3b37cc1ef4175ad18aeacef66de50"
+      },
+      {
+        "name": "41.bin",
+        "id": 41,
+        "url": "https://tebao.adall.com.br/ota/display/41.bin",
+        "size": 214090,
+        "md5": "aeee083222b5892c9dca8bed4712fd48"
+      },
+      {
+        "name": "42.icl",
+        "id": 42,
+        "url": "https://tebao.adall.com.br/ota/display/42.icl",
+        "size": 131608,
+        "md5": "5784d3aed92808e49e62eefe53899474"
+      },
+      {
+        "name": "43.icl",
+        "id": 43,
+        "url": "https://tebao.adall.com.br/ota/display/43.icl",
+        "size": 75232,
+        "md5": "f8dc52f4ff834047831e8ae7c15342c4"
+      },
+      {
+        "name": "44.icl",
+        "id": 44,
+        "url": "https://tebao.adall.com.br/ota/display/44.icl",
+        "size": 229416,
+        "md5": "8b953f665d2b06a3128dd143341956e9"
+      },
+      {
+        "name": "45.icl",
+        "id": 45,
+        "url": "https://tebao.adall.com.br/ota/display/45.icl",
+        "size": 130976,
+        "md5": "436f2b347bb1a496a8050a41b2de525a"
       },
       {
         "name": "46.icl",
         "id": 46,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/46.icl",
-        "size": 216748
-      },
-      {
-        "name": "47.icl",
-        "id": 47,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/47.icl",
-        "size": 67156
+        "url": "https://tebao.adall.com.br/ota/display/46.icl",
+        "size": 311084,
+        "md5": "03e4dc6aec5e808d5c8c60e745a1a6b6"
       },
       {
         "name": "48.icl",
         "id": 48,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/48.icl",
-        "size": 422300
+        "url": "https://tebao.adall.com.br/ota/display/48.icl",
+        "size": 68544,
+        "md5": "bf3e4235c603dc13913f808e0cad0276"
       },
       {
-        "name": "50.bin",
+        "name": "50.icl",
         "id": 50,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/50.bin",
-        "size": 886788
+        "url": "https://tebao.adall.com.br/ota/display/50.icl",
+        "size": 13992,
+        "md5": "4a6f34e189c47207fd6c42318c571a6e"
+      },
+      {
+        "name": "51.icl",
+        "id": 51,
+        "url": "https://tebao.adall.com.br/ota/display/51.icl",
+        "size": 139876,
+        "md5": "279e9646292ef5fbea2887dee3ded7b4"
+      },
+      {
+        "name": "52.icl",
+        "id": 52,
+        "url": "https://tebao.adall.com.br/ota/display/52.icl",
+        "size": 75068,
+        "md5": "8b00b6d8f8e0e2bc7756b267fb40847f"
+      },
+      {
+        "name": "53.icl",
+        "id": 53,
+        "url": "https://tebao.adall.com.br/ota/display/53.icl",
+        "size": 86776,
+        "md5": "635b7e6933b70a34aeb29bf1b071223c"
+      },
+      {
+        "name": "54.icl",
+        "id": 54,
+        "url": "https://tebao.adall.com.br/ota/display/54.icl",
+        "size": 73044,
+        "md5": "0077a167ebd8e044f43c6aa53db56a4e"
+      },
+      {
+        "name": "55.icl",
+        "id": 55,
+        "url": "https://tebao.adall.com.br/ota/display/55.icl",
+        "size": 31868,
+        "md5": "0b30a8a33237247d705c3c659ca2c268"
+      },
+      {
+        "name": "56.icl",
+        "id": 56,
+        "url": "https://tebao.adall.com.br/ota/display/56.icl",
+        "size": 149300,
+        "md5": "d00b134507a7061bd1ac8e2caa0b9fcd"
+      },
+      {
+        "name": "57.icl",
+        "id": 57,
+        "url": "https://tebao.adall.com.br/ota/display/57.icl",
+        "size": 3848,
+        "md5": "d8d59225d59aafd2d2788e02e6884fb3"
+      },
+      {
+        "name": "58.icl",
+        "id": 58,
+        "url": "https://tebao.adall.com.br/ota/display/58.icl",
+        "size": 122608,
+        "md5": "daf26686b438aa4b71dc588a32fc6ed2"
+      },
+      {
+        "name": "59.icl",
+        "id": 59,
+        "url": "https://tebao.adall.com.br/ota/display/59.icl",
+        "size": 29364,
+        "md5": "e6857d012c73af4f9d0c9b2755abff6a"
       },
       {
         "name": "60.icl",
         "id": 60,
-        "url": "https://raw.githubusercontent.com/ma-theuscruz/i-System-Touch---OTA/main/display/60.icl",
-        "size": 121376
+        "url": "https://tebao.adall.com.br/ota/display/60.icl",
+        "size": 173464,
+        "md5": "fd4f3a4ea7dd42d8686b7d05ae200381"
       }
     ]
   }
